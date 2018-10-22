@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sport</string>
+    <string name="Team_1">Команда 1</string>
+    <string name="Team_2">Команда 2</string>
+    <string name="Score1">Счет</string>
+    <string name="Score2">Счет</string>
+    <string name="scoreEdit1">0</string>
+    <string name="scoreEdit2">0</string>
+    <string name="foulEdit1">0</string>
+    <string name="foulEdit2">0</string>
+    <string name="addone">+ 1</string>
+    <string name="foul1">Фолы</string>
+    <string name="foul2">Фолы</string>
+    <string name="clear">Сброс</string>
+</resources>

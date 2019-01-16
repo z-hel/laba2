@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         scoreEdit1 = findViewById(R.id.score_edit1);
         scoreEdit2 = findViewById(R.id.score_edit2);
         foulEdit1 = findViewById(R.id.foul_edit1);
